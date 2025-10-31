@@ -1,0 +1,1 @@
+This BsData.generated.cs file provides an dataset of the Nepali Bikram Sambat (BS) calendar from 2001 BS to 2100 BS. It includes the exact number of days in each month for those years in C# structure form.
