@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nnz7G+a/cLo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\CFadmin\\Desktop\\PrrBIN\\Useful\\PasswordHasher\\PasswordHasher\\PasswordHasher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CFadmin\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
