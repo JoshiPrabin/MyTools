@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Scripts\\Script Generator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB2BC8B6-AEB5-42E6-A2E1-BBEFEC923B67}|Script Generator\\Script Generator.csproj|d:\\scripts\\script generator\\script generator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB2BC8B6-AEB5-42E6-A2E1-BBEFEC923B67}|Script Generator\\Script Generator.csproj|solutionrelative:script generator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Scripts\\Script Generator\\Script Generator\\Program.cs",
+              "RelativeDocumentMoniker": "Script Generator\\Program.cs",
+              "ToolTip": "D:\\Scripts\\Script Generator\\Script Generator\\Program.cs",
+              "RelativeToolTip": "Script Generator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T08:25:52.987Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
